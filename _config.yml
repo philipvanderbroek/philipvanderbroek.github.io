@@ -3,6 +3,8 @@
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
+theme: none
+
 sass:
   sass_dir: _scss
   style: compressed
