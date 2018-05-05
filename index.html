@@ -1,13 +1,15 @@
 ---
 layout: default
-title: Tom Preston-Werner
+title: Phil Vander Broek
 ---
-
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>Hi, I'm Phil Vander Broek.</h1>
+  <p>I'm a digital designer and design manager interested in data, design leadership, and crafting simple and compelling experiences for complex problems.</p>
+  <p>I was previously at Trifacta and Splunk, where I created tools to clean and analyze big data.</p>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+  <p>You can reach me via email or LinkedIn.</p>
 </div>
