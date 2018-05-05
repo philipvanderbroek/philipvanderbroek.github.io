@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Transformer
+permalink: transformer/
 ---
 
 # h1 Heading 8-)
