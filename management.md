@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Transformer
-permalink: transformer/
+permalink: management/
 ---
 
-# Transformer
+# Management
 
 <img src="/images/transformer/test.png">

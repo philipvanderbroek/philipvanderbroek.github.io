@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Transformer
-permalink: transformer/
+permalink: splunk/
 ---
 
-# Transformer
+# Splunk
 
 <img src="/images/transformer/test.png">
