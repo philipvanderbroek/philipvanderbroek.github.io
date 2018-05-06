@@ -55,5 +55,5 @@ The flexibility and assistance of the Builder broke the confines of the rigid sc
 Something
 
 <p class="next">
-  <a href="Design System">Next Case Study - Design System</a>
+  <a href="/design_system">Next Case Study - Design System</a>
 </p>
