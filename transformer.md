@@ -44,7 +44,7 @@ Layout
 ### Final Design
 <figure><video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video></figure>
 
-The final design was a completely new cleaning experience for data analysts.
+The final design was a completely new experience for data analysts.
 
 The Builder simplified the complex tasks of cleaning by allowing users to start where they feel comfortable, whether it be browsing options or crafting a specific cleaning command, assisting them during the process of creation by providing help in context. The panel proved to be a robust layout solution, creating a unified, focused experience.
 
@@ -54,5 +54,5 @@ The flexibility and assistance of the Builder broke the confines of the rigid sc
 Something
 
 <p class="next">
-  <a href="">Next Case Study</a>
+  <a href="Design System">Next Case Study - Design System &#x2192</a>
 </p>
