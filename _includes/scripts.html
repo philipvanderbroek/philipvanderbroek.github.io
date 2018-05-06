@@ -2,5 +2,25 @@
 <script>
    $(document).ready(function (){
       $('.site').addClass('animated fadeInUp');
+
+      $('#transformer-project').click(function() {
+        return window.location.href = 'transformer';
+      });
+
+      $('#system-project').click(function() {
+        return window.location.href = 'design_system';
+      });
+
+      $('#management-project').click(function() {
+        return window.location.href = 'management';
+      });
+
+      $('#splunk_project').click(function() {
+        return window.location.href = 'splunk';
+      });
+
+      $('#back').click(function() {
+        return window.location.href = '';
+      });
    });
 </script>
