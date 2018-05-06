@@ -66,12 +66,12 @@ p {
     position: relative;
     cursor: pointer;
     overflow: hidden;
-    transition: all .9s cubic-bezier(0.3, 0, 0, 1) ease-out;
+    transition: all .9s cubic-bezier(0.3, 0, 0, 1);
 
     &:hover{
       //box-shadow: #ddd 0px 13px 36px;
       transform: translateY(-8px) scale(1.015);
-      &>:after {
+      &:after {
         content: "";
         position: absolute;
         z-index: -1;
