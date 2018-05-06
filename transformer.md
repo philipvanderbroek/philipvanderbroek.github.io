@@ -1,9 +1,9 @@
 ---
-layout: project
+layout: project-page
 title: Transformer
 permalink: transformer/
 ---
-<figure class="hero test"><img src="images/transformer/test.png"></figure>
+<figure class="hero"><img src="images/transformer/test.png"></figure>
 
 # Transformer
 
