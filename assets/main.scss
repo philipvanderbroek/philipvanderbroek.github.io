@@ -41,6 +41,11 @@ p,ul {
   margin-bottom: 25px;
 }
 
+a{
+  font-size: 18px;
+  font-weight: 300;
+}
+
 .intro{
   max-width: 600px;
   margin-top: 200px;
@@ -126,9 +131,10 @@ p,ul {
     margin: 0px auto;
   }
 
-  figure, video{
+  figure{
     width: 100%;
     margin: 25px;
+    text-align: center;
   }
 
   .next{
@@ -137,9 +143,9 @@ p,ul {
 }
 
 .footer{
-  height: 50px;
+  height: 200px;
   width: 100%;
-  background-color: #aaa;
+  background-color: #555;
 }
 
 a{

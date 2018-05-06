@@ -42,7 +42,7 @@ Layout
 <figure><img src="/images/transformer/test.png"></figure>
 
 ### Final Design
-<video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video>
+<figure><video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video></figure>
 
 The final design was a completely new cleaning experience for data analysts.
 
