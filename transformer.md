@@ -13,7 +13,8 @@ The process of cleaning data in Trifacta had been tailored to data scientists, c
 Over a year and half we completely redesigned the core experience, replacing the technical scripting interaction model with an assistive and visual interaction model based on workflows, interfaces, and concepts tailored to analysts.
 
 ### Problem
-<figure><img src="/images/transformer/test.png"></figure>
+<figure><video src="/video/trifacta_old.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
+
 
 There were many problems stemming from the fact that the interaction model was based on scripting with a Trifacta-specific language:
 
@@ -42,7 +43,7 @@ Layout
 <figure><img src="/images/transformer/test.png"></figure>
 
 ### Final Design
-<figure><video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video></figure>
+<figure><video src="/video/panel.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
 
 The final design was a completely new experience for data analysts.
 
@@ -54,5 +55,5 @@ The flexibility and assistance of the Builder broke the confines of the rigid sc
 Something
 
 <p class="next">
-  <a href="Design System">Next Case Study - Design System &#x2192</a>
+  <a href="Design System">Next Case Study - Design System</a>
 </p>
