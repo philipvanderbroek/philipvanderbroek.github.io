@@ -55,4 +55,4 @@ Something
 
 <p class="next">
   <a href="">Next Case Study</a>
-</div>
+</p>
