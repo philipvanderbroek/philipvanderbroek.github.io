@@ -3,7 +3,7 @@ layout: project
 title: Transformer
 permalink: transformer/
 ---
-<figure class="hero"><img src="images/transformer/test.png"></figure>
+<figure class="hero test"><img src="images/transformer/test.png"></figure>
 
 # Transformer
 

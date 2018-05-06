@@ -32,7 +32,6 @@ h3{
   letter-spacing: 1px;
   font-weight: 500;
   padding: 0;
-  width:500px;
   margin: 0px auto 10px;
 }
 
@@ -42,8 +41,6 @@ p {
   margin-top: 10px;
   font-weight: 300;
   margin-bottom: 25px;
-  width:500px;
-  margin: 0px auto 25px;
 }
 
 figure{
@@ -58,11 +55,21 @@ figure{
 }
 
 .intro{
-  max-width: 600px;
+  max-width: 1000px;
+  margin-top: 200px;
 }
 
 #project-page{
   max-width: 1000px;
+
+  h1{
+    width:500px
+  }
+
+  p{
+    width:500px;
+    margin: 0px auto 25px;
+  }
 }
 
 .projects{
