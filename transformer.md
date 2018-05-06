@@ -44,7 +44,7 @@ Layout
 ![Test](images/transformer/test.png)
 
 ### Final Design
-<video src="/video/panel.mov" autobuffer="" loop="" preload="auto"></video>
+<video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video>
 
 The final design was a completely new cleaning experience for data analysts.
 
