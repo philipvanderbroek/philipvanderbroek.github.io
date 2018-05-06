@@ -3,8 +3,6 @@ layout: project-page
 title: Transformer
 permalink: transformer/
 ---
-<figure class="hero"><img src="/images/transformer/test.png"></figure>
-
 # Transformer
 
 ### Overview
@@ -19,11 +17,11 @@ Over a year and half we completely redesigned the core experience, replacing the
 
 There were many problems stemming from the fact that the interaction model was based on scripting with a Trifacta-specific language:
 
--The language was difficult for analysts to understand because it was too technical and Trifacta-specific.
--Learning the language was hard because there wasn’t any documentation or help in context.
--Common functionality was difficult fo find, such as using a formula, because it was nested under obscure Trifacta-specfic commands.
--Page layout was fractured, causing confusion and dead space.
--Visual design and basic interface components needed updating (covered in the Design System case study).
+- The language was difficult for analysts to understand because it was too technical and Trifacta-specific.
+- Learning the language was hard because there wasn’t any documentation or help in context.
+- Common functionality was difficult fo find, such as using a formula, because it was nested under obscure Trifacta-specfic commands.
+- Page layout was fractured, causing confusion and dead space.
+- Visual design and basic interface components needed updating (covered in the Design System case study).
 
 ### Goals
 Given the problems, the main goals of the project were to:
@@ -34,14 +32,14 @@ Given the problems, the main goals of the project were to:
 ### Approach
 Explore
 
-![Test](images/transformer/test.png)
+<figure><img src="/images/transformer/test.png"></figure>
 
-![Test](images/transformer/test.png)
+<figure><img src="/images/transformer/test.png"></figure>
 
 Layout
-![Test](images/transformer/test.png)
-![Test](images/transformer/test.png)
-![Test](images/transformer/test.png)
+<figure><img src="/images/transformer/test.png"></figure>
+<figure><img src="/images/transformer/test.png"></figure>
+<figure><img src="/images/transformer/test.png"></figure>
 
 ### Final Design
 <video src="/video/panel.mov" autobuffer="" loop="" autoplay="" preload="auto"></video>

@@ -34,7 +34,7 @@ h3{
   margin: 0px;
 }
 
-p {
+p,ul {
   font-size: 18px;
   margin-top: 0px;
   font-weight: 300;
@@ -114,6 +114,10 @@ p {
   max-width: 1000px;
   margin: auto;
 
+  h1,h3,p,ul{
+    width:500px;
+  }
+
   h1{
     margin: 0px auto 25px;
   }
@@ -123,7 +127,6 @@ p {
   }
 
   p{
-    width:500px;
     margin: 0px auto 25px;
   }
 
