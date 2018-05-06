@@ -53,4 +53,6 @@ The flexibility and assistance of the Builder broke the confines of the rigid sc
 ### Impact
 Something
 
+<div class="next">
 [Next Case Study](/something)
+</div>
