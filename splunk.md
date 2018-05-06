@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-page
 title: Transformer
 permalink: splunk/
 ---

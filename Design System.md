@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-page
 title: Design System
 permalink: design_system/
 ---
