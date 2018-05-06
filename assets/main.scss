@@ -68,7 +68,7 @@ p {
     overflow: hidden;
 
     &:hover{
-      box-shadow: #ddd 0px 13px 36px
+      box-shadow: #ddd 0px 13px 36px;
       transform: translateY(-8px) scale(1.015);
       transition: all .9s cubic-bezier(0.3, 0, 0, 1);
     }
