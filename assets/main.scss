@@ -45,12 +45,16 @@ p {
   max-width: 600px;
   margin-top: 200px;
   margin-bottom: 100px;
-  padding: 0px 60px;
+  padding: 0px 80px;
 }
 
 #home{
   max-width:1200px;
   margin: 20px auto;
+
+  .projects{
+    margin: 0px 20px;
+  }
 
   .project{
     background-color: #fff;
@@ -62,6 +66,12 @@ p {
     position: relative;
     cursor: pointer;
     overflow: hidden;
+
+    &:hover{
+      box-shadow: #ddd 0px 13px 36px
+      transform: translateY(-8px) scale(1.015);
+      transition: all .9s cubic-bezier(0.3, 0, 0, 1);
+    }
   }
 
   .projimg{
