@@ -53,6 +53,6 @@ The flexibility and assistance of the Builder broke the confines of the rigid sc
 ### Impact
 Something
 
-<div class="next">
-[Next Case Study](/something)
+<p class="next">
+  <a href="">Next Case Study</a>
 </div>
