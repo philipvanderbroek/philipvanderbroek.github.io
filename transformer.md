@@ -3,6 +3,7 @@ layout: project
 title: Transformer
 permalink: transformer/
 ---
+<figure class="hero">![Test](images/transformer/test.png)</figure>
 
 # Transformer
 
@@ -14,7 +15,7 @@ The process of cleaning data in Trifacta had been tailored to data scientists, c
 Over a year and half we completely redesigned the core experience, replacing the technical scripting interaction model with an assistive and visual interaction model based on workflows, interfaces, and concepts tailored to analysts.
 
 ### Problem
-![Test](images/transformer/test.png)
+<figure>![Test](images/transformer/test.png)</figure>
 
 There were many problems stemming from the fact that the interaction model was based on scripting with a Trifacta-specific language:
 
