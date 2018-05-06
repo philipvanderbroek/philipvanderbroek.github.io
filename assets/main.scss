@@ -30,13 +30,13 @@ h3{
   color: #999;
   letter-spacing: 1px;
   font-weight: 500;
-  padding: 0;
-  margin: 0px auto 10px;
+  padding: 0px;
+  margin: 0px;
 }
 
 p {
   font-size: 18px;
-  margin-top: 10px;
+  margin-top: 0px;
   font-weight: 300;
   margin-bottom: 25px;
 }
@@ -65,8 +65,8 @@ p {
     margin-bottom: 60px;
     position: relative;
     cursor: pointer;
-    overflow: hidden;
     transition: all .9s cubic-bezier(0.3, 0, 0, 1);
+    z-index: 1;
 
     &:hover{
       //box-shadow: #ddd 0px 13px 36px;
@@ -81,6 +81,7 @@ p {
         bottom: 0px;
         left: 0px;
         box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.2);
+        transition: all .9s cubic-bezier(0.3, 0, 0, 1);
       }
     }
   }
