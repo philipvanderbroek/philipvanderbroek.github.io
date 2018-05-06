@@ -21,7 +21,6 @@ h1 {
     font-weight: 300;
     margin-bottom: 10px;
     line-height: 54px;
-    width:500px;
     margin: 0px auto 25px;
 }
 
@@ -47,6 +46,25 @@ p {
   margin-top: 200px;
 }
 
+#home{
+  max-width:1200px;
+  padding: 0px 20px;
+
+  h1,p{
+    padding: 0px 60px;
+  }
+
+  .project{
+    width:100px;
+    background-color: #fff;
+    border-radius: 5px;
+    border-color: #E5E5E5;
+    height: 450px;
+    padding: 60px;
+    margin-bottom: 60px;
+  }
+}
+
 #project-page{
   max-width: 1000px;
 
@@ -68,23 +86,6 @@ p {
       height: 200px;
       margin-bottom: 100px;
     }
-  }
-}
-
-.projects{
-  width:800px;
-  display: flex;
-}
-
-.project{
-  flex: 1;
-  height: 400px;
-  background: gray;
-  margin: 20px;
-
-
-  p{
-    max-width: 500px;
   }
 }
 
