@@ -16,13 +16,13 @@ Over a year and half we completely redesigned the core experience, replacing the
 <figure><video src="/video/trifacta_old.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
 
 
-There were many problems stemming from the fact that the interaction model was based on scripting with a Trifacta-specific language:
+There were many problems stemming from the scripting interaction model:
 
 - The language was difficult for analysts to understand because it was too technical and Trifacta-specific.
 - Learning the language was hard because there wasn’t any documentation or help in context.
-- Common functionality was difficult fo find, such as using a formula, because it was nested under obscure Trifacta-specfic commands.
-- Page layout was fractured, causing confusion and dead space.
-- Visual design and basic interface components needed updating (covered in the Design System case study).
+- Common functionality was difficult fo find, such as using a formula, because it was nested under obscure commands.
+- The page layout was overloaded.
+- Visual design and basic interface components needed updating (covered in the [Design System case study](/design_system)).
 
 ### Goals
 Given the problems, the main goals of the project were to:
@@ -49,7 +49,7 @@ The final design was a completely new experience for data analysts.
 
 The Builder simplified the complex tasks of cleaning by allowing users to start where they feel comfortable, whether it be browsing options or crafting a specific cleaning command, assisting them during the process of creation by providing help in context. The panel proved to be a robust layout solution, creating a unified, focused experience.
 
-The flexibility and assistance of the Builder broke the confines of the rigid scripting language and catered to the user’s mental model rather than forcing them into an experience oriented around a technical system.
+The flexibility and assistance of the Builder broke the confines of the rigid scripting language and catered to the user’s mental model rather than forcing them into an experience oriented around the technical system.
 
 ### Impact
 Something
