@@ -102,6 +102,12 @@ ul{
   }
 }
 
+.back{
+  background: none;
+  font-size: 14px;
+  font-weight: 400;
+}
+
 #home{
   max-width:1200px;
   margin: 20px auto;
@@ -292,7 +298,7 @@ a{
   #project-content{
 
     //max-width: 1000px;
-    margin: 50px 20px;
+    margin: 100px 20px 0px 20px;
 
     h1,h3,p,ul{
       width:inherit;
