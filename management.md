@@ -2,7 +2,7 @@
 layout: project-page
 title: Transformer
 permalink: management/
-hero: "/images/management/management_hero.png"
+hero: "/images/management/management_project_hero.png"
 ---
 
 # Design Management
