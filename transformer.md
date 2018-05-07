@@ -42,7 +42,7 @@ The bottom panel wouldn't easily scale to more complex commands and took up too 
 
 <figure><img src="/images/transformer/panel_concept.png"></figure>
 
-We wanted to understand what searching and crafting in a panel would entail.  The panel contained and unified the atomic components we had explored before, providing a simple single entry point.
+We wanted to understand what searching and crafting in a panel would entail and how it might contain and unify the atomic components we had explored before.
 
 <figure><img src="/images/transformer/single_panel.png"></figure>
 
@@ -56,9 +56,6 @@ The final design was a completely new experience for data analysts.  The main im
  - **A better panel layout** creating a unified, focused experience and workflow.
 
 The flexibility and assistance of the Builder broke the confines of the rigid scripting language by **catering to how analysts think about crafting cleaning steps** rather than forcing them into an experience oriented around the technical system.
-
-### Impact
-Something
 
 <p class="next">
   <a href="/design_system">Next Case Study - Design System
