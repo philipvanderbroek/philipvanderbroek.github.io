@@ -2,7 +2,7 @@
 layout: project-page
 title: Design System
 permalink: design_system/
-hero: /images/design_system/design_system_hero.png
+hero: "/images/design_system/design_system_hero.png"
 ---
 # Design System
 
