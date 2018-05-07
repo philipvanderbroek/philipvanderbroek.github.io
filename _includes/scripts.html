@@ -22,5 +22,15 @@
       $('#back').click(function() {
         return window.location.href = '';
       });
+
+      $(window).scroll(function() {
+          var scroll = $(window).scrollTop();
+
+          if (scroll == 0) {
+              $(".global-header").removeClass("scrolled");
+          } else {
+              $(".global-header").addClass("scrolled");
+          }
+      });
    });
 </script>
