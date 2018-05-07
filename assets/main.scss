@@ -220,7 +220,7 @@ a{
       background-color: #fff;
       border-radius: 5px;
       border: 1px solid #E5E5E5;
-      height: 630px;
+      height: 417px;
       padding: 30px;
       margin-bottom: 60px;
       position: relative;
@@ -230,7 +230,6 @@ a{
 
       p{
         width:inherit;
-        margin-bottom: 10px;
       }
     }
 
@@ -238,6 +237,43 @@ a{
       position: initial;
       width: 100%;
       height: auto;
+      margin-bottom: 15px;
+    }
+  }
+
+  .project-hero{
+    display: none;
+  }
+
+  #projects-content{
+
+    //max-width: 1000px;
+    margin: 50px 20px;
+
+    h1,h3,p,ul{
+      width:inherit;
+    }
+
+    h1, p, ul{
+      margin: 0px auto 25px;
+    }
+
+    h3{
+      margin: 0px auto;
+    }
+
+    figure{
+      width: 95%;
+      margin: 25px auto;
+      text-align: center;
+    }
+
+    video{
+      width: 100%;
+    }
+
+    .next{
+      margin: 100px auto;
     }
   }
 
