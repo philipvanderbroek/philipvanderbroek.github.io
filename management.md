@@ -4,7 +4,7 @@ title: Transformer
 permalink: management/
 ---
 
-# Management
+# Design Management
 
 ### Hiring
 
@@ -58,3 +58,7 @@ After pairing with Sales to get Design in front of the customer, it became clear
 The VP of Product and CEO were hesitant about the value a researcher would bring to the team.  We decided to bring in a consulting researcher for the organization to test and understand the value of research.  I sourced a well-regarded researcher who worked with the Product and Design team on a foundational research project to better understand our users skills and needs.
 
 Ultimately the project shed light on important details, such as the range of technical ability across our users, which impacted how we thought about creating core parts of the product and how marketing thought about messaging our product.  The project was considered a success, which led to my hiring of our first full time user researcher.
+
+<p class="next">
+  <a href="/splunk">Next Case Study - Splunk</a>
+</p>

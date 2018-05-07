@@ -54,7 +54,7 @@ a{
   padding: 0px 80px;
 
   a{
-    padding-right: 50px;
+    margin-right: 50px;
   }
 }
 
@@ -78,10 +78,14 @@ a{
     transition: all .9s cubic-bezier(0.3, 0, 0, 1);
     z-index: 1;
 
+    p{
+      width: 350px;
+    }
+
     &:hover{
       //box-shadow: #ddd 0px 13px 36px;
-      transform: translateY(-8px) scale(1.015);
-      &::after {
+      //transform: translateY(-8px) scale(1.015);
+      /*&::after {
         width: 90%;
         height: 10px;
         margin: 0 5%;
@@ -92,7 +96,7 @@ a{
         left: 0px;
         box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.2);
         transition: all .9s cubic-bezier(0.3, 0, 0, 1);
-      }
+      }*/
     }
   }
 
@@ -155,6 +159,9 @@ a{
   height: 300px;
   width: 100%;
   background-color: #555;
+  max-width: 1200px;
+  margin: 20px auto;
+  color: #b9b9b9;
 }
 
 a{
@@ -195,5 +202,35 @@ a{
 
 /* mobile */
 @media only screen and (max-width: 910px) {
+
+.intro{
+  /* max-width: 600px; */
+  margin-top: 200px;
+  margin-bottom: 100px;
+  padding: 0px 40px;
+}
+
+#home{
+
+  .project {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #E5E5E5;
+    height: 630px;
+    padding: 60px;
+    margin-bottom: 60px;
+    position: relative;
+    cursor: pointer;
+    transition: all 0.9s cubic-bezier(0.3, 0, 0, 1);
+    z-index: 1;
+  }
+
+  .projimg {
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    height: 330px;
+  }
+}
 
 }

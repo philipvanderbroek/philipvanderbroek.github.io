@@ -17,5 +17,5 @@ In addition to contributions to the design system, I was responsible for Reports
 The design system stood the test of time.  After 6 years it’s still being used, largely unchanged across all of Splunk’s products.
 
 <p class="next">
-  <a href="/">Go Back</a>
+  <a href="/">Go Home</a>
 </p>
