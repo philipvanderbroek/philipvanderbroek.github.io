@@ -206,8 +206,12 @@ a{
   .intro{
     /* max-width: 600px; */
     margin-top: 50px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     padding: 0px 40px;
+  }
+
+  h1{
+    line-height: 41px;
   }
 
   #home{
@@ -226,12 +230,14 @@ a{
 
       p{
         width:inherit;
+        margin-bottom: 10px;
       }
     }
 
     .projimg {
       position: initial;
       width: 100%;
+      height: auto;
     }
   }
 
