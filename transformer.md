@@ -46,7 +46,7 @@ We wanted to simplify the layout and workflow by unifying the bottom panel with 
 
 <figure><img src="/images/transformer/panel_concept.png"></figure>
 
-The panel approach was really promising, so we dug into the details.  We wanted to understand the workflow in more detail. such as what searching and crafting in a panel would entail.  We also wanted to explore how the unified panel might contain and the atomic components we had explored before.
+The panel approach was really promising, so we dug into the details.  We wanted to understand the workflow in more detail, such as what searching and crafting in a panel would entail.  We also wanted to explore how the unified panel might contain and the atomic components we had explored before.
 
 <figure><img src="/images/transformer/single_panel.png"></figure>
 
