@@ -38,6 +38,12 @@ In our weekly design team meeting we would discuss progress and assign out parti
 
 The final result was a detailed and documented set of components in sketch and code, and significant updates to product itself.
 
+<figure><img src="/images/design_system/type2.png"></figure>
+<figure><img src="/images/design_system/color.png"></figure>
+<figure><img src="/images/design_system/layout.png"></figure>
+<figure><img src="/images/design_system/transformer.png"></figure>
+<figure><img src="/images/design_system/flow.png"></figure>
+
 Image Here
 
 ### Design tool and workflow
