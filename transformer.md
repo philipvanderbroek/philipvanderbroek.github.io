@@ -1,17 +1,17 @@
 ---
 layout: project-page
-title: Transformer
+title: Transform Builder
 permalink: transformer/
 hero: "/images/transformer/transformer_project_hero.png"
 ---
 # Transform Builder
 
 ### Overview
-A common problem in data analysis is that the data is messy.  Cleaning messy data is difficult and often requires technical skills.  Trifacta enables analysts to clean and prepare their data by providing them with a visual cleaning experience powered by machine learning.
+A common problem in data analysis is that the data is messy. Cleaning messy data is difficult and often requires technical skills that data analysts don't have.  Trifacta enables analysts to clean and prepare their data by providing them with a visual cleaning experience powered by machine learning.
 
-The process of cleaning data in Trifacta had been tailored to data scientists, closely resembling a scripting language, making the cleaning process unnecessarily hard for analysts.
+The process of cleaning data in Trifacta had previously been tailored to data scientists, closely resembling a scripting language, making the cleaning process unnecessarily hard for analysts.
 
-Over the span of a year and half we completely redesigned the core experience, replacing the technical scripting interaction model with an assistive and visual interface interaction model based on workflows and concepts tailored to analysts.
+Over the span of a year and half we completely redesigned the core cleaning experience, replacing the technical scripting interaction model with an assistive and visual interface interaction model based on workflows and concepts tailored to analysts.
 
 ### Problem
 <figure><video src="/video/trifacta_old.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
@@ -31,21 +31,26 @@ Given the problems, the goals of the project were to:
 - Redesign page layout and interactions to facilitate a better workflow.
 
 ### Approach
-We knew we wanted to move from a scripting language to a visual interface, so we explored breaking the language down into atomic components.
+Because scripting was difficult for our users we knew we wanted to move to a visual interface-based model.  The details of such a model weren't clear, so we explored breaking the scripting language out into atomic components.  In this way we could design simple experiences for each type of command.
 
 <figure><img src="/images/transformer/types.png"></figure>
 
-The layout was fractured and contained a bottom scripting panel and a contextual right panel. We initially explored an enhanced version of the bottom panel.
+We explored putting the atomic components in the bottom panel.
 
 <figure><img src="/images/transformer/bottom_panel.png"></figure>
 
-The bottom panel wouldn't easily scale to more complex commands and took up too much horizontal space.  We wanted to simplify the layout and workflow by unifying the bottom panel with the right panel. Taking inspiration from apps such as keynote, we explored a panel layout.
+
+The script input needed a lot of horizontal space, but after moving towards an interface based solution, we realized we could break free from the bottom panel.  With the bottom panel, the page layout was overloaded because there was both a bottom scripting panel and a contextual right panel.  The multiple panels made the page feel cluttered and the workflow feel inconsistent.  Also, the bottom panel wouldn't easily scale to more complex commands that took up more horizontal space.
+
+We wanted to simplify the layout and workflow by unifying the bottom panel with the right panel. Taking inspiration from apps such as keynote, we explored a panel layout.
 
 <figure><img src="/images/transformer/panel_concept.png"></figure>
 
-We wanted to understand what searching and crafting in a panel would entail and how it might contain and unify the atomic components we had explored before.
+The panel approach was really promising, so we dug into the details.  We wanted to understand the workflow in more detail. such as what searching and crafting in a panel would entail.  We also wanted to explore how the unified panel might contain and the atomic components we had explored before.
 
 <figure><img src="/images/transformer/single_panel.png"></figure>
+
+The panel was both robust as a page layout and flexible in the types of workflows and components it could contain.
 
 ### Final Design
 <figure><video src="/video/panel.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
