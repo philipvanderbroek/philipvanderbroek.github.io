@@ -9,13 +9,13 @@ hero: "/images/splunk/splunk_project_hero.png"
 
 Splunk is the leading machine-generated data analysis platform.  It’s currently used by 15,000 companies and is worth $14B dollars.
 
-I was part of a small team responsible for the redesign of the core Splunk Enterprise 5.0 product.
+I was part of a small team responsible for redesigning the Splunk Enterprise 5.0, Splunk's core product.
 
 The redesign included a completely new design system and front end, major updates to core concepts and pages, and the addition of new features.
 
 In addition to contributions to the design system, I was responsible for redesigning and enhancing Reports, Dashboards, and Alerts.
 
-The design system stood the test of time.  After 6 years it’s still being used largely unchanged across all of Splunk’s products.
+The design system stood the test of time.  After 6 years it’s still being used across all of Splunk’s products.
 
 I'd be happy to share more in person.  Reach out if you're interested.
 
