@@ -2,6 +2,7 @@
 layout: project-page
 title: Transformer
 permalink: splunk/
+hero: /images/design_system/design_system_hero.png"
 ---
 
 # Splunk
