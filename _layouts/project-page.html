@@ -8,7 +8,8 @@ layout: default
 </div>
 <div class="project-hero">
   <figure class="hero">
-    <img src="/images/design_system/design_system_hero.png"></figure>
+    <img src={% if meta %}{{ meta.hero }}{% endif %}></figure>
+
   </figure>
 </div>
 <div id="project-content">
