@@ -15,9 +15,9 @@ The redesign included a completely new design system and front end, major update
 
 In addition to contributions to the design system, I was responsible for redesigning and enhancing Reports, Dashboards, and Alerts.
 
-The design system stood the test of time.  After 6 years it’s still being used, largely unchanged across all of Splunk’s products.
+The design system stood the test of time.  After 6 years it’s still being used largely unchanged across all of Splunk’s products.
 
-This project is older than the others, I'd be happy to share more in person.  Reach out if you're interested.
+I'd be happy to share more in person.  Reach out if you're interested.
 
 <figure><img src="/images/splunk/dashboards.png"></figure>
 
