@@ -10,46 +10,56 @@ A common problem in data analysis is that the data is messy.  Cleaning messy dat
 
 The process of cleaning data in Trifacta had been tailored to data scientists, closely resembling a scripting language, making the cleaning process unnecessarily hard for analysts.
 
-Over a year and half we completely redesigned the core experience, replacing the technical scripting interaction model with an assistive and visual interaction model based on workflows, interfaces, and concepts tailored to analysts.
+Over the span of a year and half we completely redesigned the core experience, replacing the technical scripting interaction model with an assistive and visual interface interaction model based on workflows and concepts tailored to analysts.
 
 ### Problem
 <figure><video src="/video/trifacta_old.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
 
+There were many problems with the scripting interaction model:
 
-There were many problems stemming from the scripting interaction model:
-
-- The language was difficult for analysts to understand because it was too technical and Trifacta-specific.
+- The language was difficult for analysts to understand because it was too technical and Trifacta specific.
 - Learning the language was hard because there wasn’t any documentation or help in context.
-- Common functionality was difficult fo find, such as using a formula, because it was nested under obscure commands.
+- Common commands were difficult fo find, such as using a formula, because they were nested under obscure commands.
 - The page layout was overloaded.
 - Visual design and basic interface components needed updating (covered in the [Design System case study](/design_system)).
 
 ### Goals
-Given the problems, the main goals of the project were to:
-- Rethink the transformation crafting and editing experience for analysts by moving away from a scripting interaction model
-- Improve discoverability and learnability of commands
-- Redesign page layout and interactions to facilitate a better workflow
+Given the problems, the goals of the project were to:
+- Rethink the transformation crafting and editing experience for analysts.
+- Improve discoverability and learnability of commands.
+- Redesign page layout and interactions to facilitate a better workflow.
 
 ### Approach
-Explore
+We knew we wanted to move from a scripting language to a visual interface model, so we initially explored breaking the language down into atomic components.  Each component could support
+
+<figure><img src="/images/transformer/types.png"></figure>
+
+The layout was fractured and contained a bottom scripting panel and a contextual right panel.  We initially explored an enhanced version of the bottom panel.
+
+<figure><img src="/images/transformer/bottom_panel.png"></figure>
+
+The bottom panel wouldn't easily scale to more complex commands and took too up too much horizontal space.  We wanted simplify the layout and workflow by unifying the bottom panel with the right panel. Taking inspiration from apps such as keynote, we explored a panel layout.
+
+Panel Layout.
+
+The Principal designer paired closely with the developers and CTO to completely rewrite the language to support searchability.  We also wrote documentation for every command.
 
 <figure><img src="/images/transformer/test.png"></figure>
 
-<figure><img src="/images/transformer/test.png"></figure>
+We wanted to understand what searching and crafting in a panel would entail.
 
-Layout
-<figure><img src="/images/transformer/test.png"></figure>
-<figure><img src="/images/transformer/test.png"></figure>
 <figure><img src="/images/transformer/test.png"></figure>
 
 ### Final Design
 <figure><video src="/video/panel.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
 
-The final design was a completely new experience for data analysts.
+The final design was a completely new experience for data analysts.  The main improvements were:
 
-The Builder simplified the complex tasks of cleaning by allowing users to start where they feel comfortable, whether it be browsing options or crafting a specific cleaning command, assisting them during the process of creation by providing help in context. The panel proved to be a robust layout solution, creating a unified, focused experience.
+ - **Better search and discovery paths** so users can find the transform they’re looking for.
+ - **More support and documentation** integrated into the app so users can understand and learn the features.
+ - **A better panel layout** creating a unified, focused experience and workflow
 
-The flexibility and assistance of the Builder broke the confines of the rigid scripting language and catered to the user’s mental model rather than forcing them into an experience oriented around the technical system.
+The flexibility and assistance of the Builder broke the confines of the rigid scripting language by **catering to how analysts think about crafting cleaning steps** rather than forcing them into an experience oriented around the technical system.
 
 ### Impact
 Something
