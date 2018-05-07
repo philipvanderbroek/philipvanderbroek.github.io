@@ -112,6 +112,10 @@ ul{
   }
 }
 
+::selection {
+  background: #fbf36d;
+}
+
 #home{
   max-width:1200px;
   margin: 20px auto;
