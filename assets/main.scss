@@ -108,7 +108,10 @@ ul{
   font-weight: 400;
 
   svg.arrow{
-    //transform: rotate(180deg);
+    position: relative;
+    top: 2px;
+    width: 20px;
+    height: 15px;
   }
 }
 
@@ -340,13 +343,6 @@ a{
 
     .next{
       margin: 100px auto;
-
-      svg.arrow{
-        transform: rotate(180deg);
-        height: 19px;
-        position: relative;
-        top: 3px;
-      }
     }
   }
 
@@ -357,4 +353,11 @@ a{
     padding: 20px;
   }
 
+}
+
+svg.arrow{
+  transform: rotate(180deg);
+  height: 19px;
+  position: relative;
+  top: 3px;
 }
