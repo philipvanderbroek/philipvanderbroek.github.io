@@ -10,7 +10,9 @@ hero: "/images/design_system/design_system_hero.png"
 
 After 3 years of building features with loose design guidelines, Trifacta’s product was showing its rough edges.  The interface had visual and interactive design issues as well as a poorly architected front end.  Both design and engineering were burdened by a lack of consistent components.  It was time to tackle the problem with a proper design system.
 
-The design system initiative was kicked off by myself and the principal designer on my team and the principal designer led the effort.  Educating the company was essential. We started with an analysis and proposal to help the organization understand what the problems were and what we felt like a good approach would look like.
+The design system initiative was kicked off by myself and the principal designer on my team. The principal designer led the execution and I supported him with planning, coordination, and by creating time and visisbility.
+
+Educating the company was essential because many people didn't understand what a design system was and why we should work on it compared to other features. We started with an analysis of the problem and a proposed approach.  We presented them to the company to help everyone understand the goals.
 
 The initiative gained momentum and became a formal joint effort between Front End and Design.  We ultimately shipped completely redone components and layouts to the product and a design system in sketch and code.
 
@@ -31,9 +33,9 @@ After understanding the scope the problem, we began mapping existing components 
 
 <figure><img src="/images/design_system/type.png"></figure>
 
-The principal designer implemented a prototyping branch in code to test the design system as it evolved.  This also allowed us to easily share our progress with developers and the broader company.
+The principal designer created a prototype in code to test the design system as it evolved.  This also allowed us to easily share our progress with developers and the broader company; all they had to do was ping a url.
 
-In our weekly design team meeting we would discuss progress and assign out particular tasks.  We would also use that time to discuss real instances of the components in features we were working on to understand the considerations in a real context. The principal designer and I had weekly meetings and ad hoc collaboration with the front end developers throughout the process.
+In our weekly design team meeting we would discuss progress and assign out particular tasks.  We would also use that time to discuss real instances of the components in features we were working on to understand the considerations in a true context. The principal designer and I had weekly meetings and ad hoc collaboration with the front end developers throughout the process.
 
 ### Final Result
 
@@ -56,7 +58,7 @@ We uploaded a shared master sketch file to google drive and would create a new f
 
 ### Challenges
 
-The design system initiative was challenging to resource.  The work didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  By working with engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
+The design system initiative was challenging to resource.  The work didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  By working with Engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
 
 ### Impact
 
