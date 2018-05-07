@@ -14,9 +14,9 @@ body {
     -o-font-smoothing: antialiased;
     line-height: 1.5;
 
-    -webkit-animation: fadeIn 3000ms;
-    -moz-animation: fadeIn 3000ms;
-    animation: fadeIn 3000ms;
+    -webkit-animation: fadeIn 2000ms;
+    -moz-animation: fadeIn 2000ms;
+    animation: fadeIn 2000ms;
     @-webkit-keyframes fadeIn {
       from {
         opacity: 0; }
@@ -71,6 +71,24 @@ a{
 
 ul{
   list-style-type: circle;
+}
+
+.global-back{
+  height: 50px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+  //background-color: transparent;
+  padding: 20px;
+  transition: all .2s cubic-bezier(0.3, 0, 0, 1);
+
+  .scrolled{
+      box-shadow: 0px 0px 70px 0px rgba(0,0,0,0.1);
+      background-color: #fff;
+  }
 }
 
 .intro{
