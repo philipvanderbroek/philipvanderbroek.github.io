@@ -145,7 +145,7 @@ strong, b {
     cursor: pointer;
     z-index: 1;
     transition: border 0.9s cubic-bezier(0.3, 0, 0, 1);
-    
+
     &:hover{
       border: 1px solid #cac9c9;
     }
@@ -340,7 +340,7 @@ a{
 
       p{
         width:inherit;
-        margin-bottom:0px;
+        //margin-bottom:0px;
       }
     }
 

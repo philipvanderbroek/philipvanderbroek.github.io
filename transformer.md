@@ -2,7 +2,7 @@
 layout: project-page
 title: Transformer
 permalink: transformer/
-hero: "/images/design_system/design_system_hero.png"
+hero: "/images/transformer/transformer_project_hero.png"
 ---
 # Transformer
 
