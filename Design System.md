@@ -39,16 +39,15 @@ In our weekly design team meeting we would discuss progress and assign out parti
 The final result was a detailed and documented set of components in sketch and code, and significant updates to product itself.
 
 <figure><img src="/images/design_system/type2.png"></figure>
-<figure><img src="/images/design_system/color.png"></figure>
+<figure><img src="/images/design_system/colors.png"></figure>
 <figure><img src="/images/design_system/layout.png"></figure>
+<figure><img src="/images/design_system/buttons.png"></figure>
 <figure><img src="/images/design_system/transformer.png"></figure>
 <figure><img src="/images/design_system/flow.png"></figure>
 
-Image Here
+### Design tools and workflow
 
-### Design tool and workflow
-
-The design system was captured in sketch leveraging a shared symbols library.   With the shared symbols library we could be more productive at creating high fidelity mockups.  It also acted as a standardizing force: if you aren’t using a shared symbol, why not?
+We implemented the system in sketch using a shared symbols library.   With the shared symbols library we could be more productive at creating high fidelity mockups.  It also acted as a standardizing force: if you aren’t using a shared symbol, why not?
 
 We uploaded a shared master sketch file to google drive and would create a new file from that whenever we started a new project.  There are of course some challenges with that workflow, but it was dead simple and just worked for us.
 
@@ -56,16 +55,15 @@ We uploaded a shared master sketch file to google drive and would create a new f
 
 ### Challenges
 
-The design system initiative was challenging to resource.  As a project it didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  By working with engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
+The design system initiative was challenging to resource.  The work didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  By working with engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
 
 ### Impact
-
-Before and After Image
 
 Despite the challenges, the design system had a large impact the product and the way we worked as Product and Engineering groups.
 
 Upon leaving Trifacta, the CEO mentioned he thought the Design System was one of my biggest contributions to the company and was impressed I carved out the team’s time to focus on the initiative against competing priorities.
 
+<figure><img src="/images/design_system/before_after.png"></figure>
 
 <p class="next">
   <a href="/management">Next Case Study - Design Management</a>
