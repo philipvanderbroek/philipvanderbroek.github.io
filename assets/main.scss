@@ -253,7 +253,7 @@ strong, b {
 .footer{
   height: 300px;
   width: 100%;
-  background-color: #555;
+  //background-color: #555;
   //margin: 20px auto;
   color: #b9b9b9;
 }
@@ -328,6 +328,7 @@ a{
 
       p{
         width:inherit;
+        margin-bottom:0px;
       }
     }
 
