@@ -30,25 +30,21 @@ Given the problems, the goals of the project were to:
 - Redesign page layout and interactions to facilitate a better workflow.
 
 ### Approach
-We knew we wanted to move from a scripting language to a visual interface model, so we initially explored breaking the language down into atomic components.  Each component could support
+We knew we wanted to move from a scripting language to a visual interface, so we explored breaking the language down into atomic components.
 
 <figure><img src="/images/transformer/types.png"></figure>
 
-The layout was fractured and contained a bottom scripting panel and a contextual right panel.  We initially explored an enhanced version of the bottom panel.
+The layout was fractured and contained a bottom scripting panel and a contextual right panel. We initially explored an enhanced version of the bottom panel.
 
 <figure><img src="/images/transformer/bottom_panel.png"></figure>
 
-The bottom panel wouldn't easily scale to more complex commands and took too up too much horizontal space.  We wanted simplify the layout and workflow by unifying the bottom panel with the right panel. Taking inspiration from apps such as keynote, we explored a panel layout.
+The bottom panel wouldn't easily scale to more complex commands and took up too much horizontal space.  We wanted to simplify the layout and workflow by unifying the bottom panel with the right panel. Taking inspiration from apps such as keynote, we explored a panel layout.
 
-Panel Layout.
+<figure><img src="/images/transformer/panel_concept.png"></figure>
 
-The Principal designer paired closely with the developers and CTO to completely rewrite the language to support searchability.  We also wrote documentation for every command.
+We wanted to understand what searching and crafting in a panel would entail.  The panel contained and unified the atomic components we had explored before, providing a simple single entry point.
 
-<figure><img src="/images/transformer/test.png"></figure>
-
-We wanted to understand what searching and crafting in a panel would entail.
-
-<figure><img src="/images/transformer/test.png"></figure>
+<figure><img src="/images/transformer/single_panel.png"></figure>
 
 ### Final Design
 <figure><video src="/video/panel.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
@@ -56,8 +52,8 @@ We wanted to understand what searching and crafting in a panel would entail.
 The final design was a completely new experience for data analysts.  The main improvements were:
 
  - **Better search and discovery paths** so users can find the transform they’re looking for.
- - **More support and documentation** integrated into the app so users can understand and learn the features.
- - **A better panel layout** creating a unified, focused experience and workflow
+ - **More support and documentation** integrated into the app so users can learn and understand the features.
+ - **A better panel layout** creating a unified, focused experience and workflow.
 
 The flexibility and assistance of the Builder broke the confines of the rigid scripting language by **catering to how analysts think about crafting cleaning steps** rather than forcing them into an experience oriented around the technical system.
 
