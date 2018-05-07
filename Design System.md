@@ -49,7 +49,7 @@ The final result was a detailed and documented set of components in sketch and c
 
 We implemented the system in sketch using a shared symbols library.   With the shared symbols library we could be more productive at creating high fidelity mockups.  It also acted as a standardizing force: if you aren’t using a shared symbol, why not?
 
-We uploaded a shared master sketch file to google drive and would create a new file from that whenever we started a new project.  There are of course some challenges with that workflow, but it was dead simple and just worked for us.
+We uploaded a shared master sketch file to google drive and would create a new file from it whenever we started a new project.  There are of course some challenges with that workflow, but it was dead simple and just worked for us.
 
 <figure><video src="/video/dspreview.mov" autobuffer="" loop="" muted="" autoplay="" preload="auto"></video></figure>
 
@@ -66,5 +66,7 @@ Upon leaving Trifacta, the CEO mentioned he thought the Design System was one of
 <figure><img src="/images/design_system/before_after.png"></figure>
 
 <p class="next">
-  <a href="/management">Next Case Study - Design Management</a>
+  <a href="/management">Next Case Study - Design Management
+    <?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
+  </a>
 </p>
