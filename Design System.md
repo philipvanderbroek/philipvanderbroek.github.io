@@ -34,16 +34,15 @@ The principal designer implemented a prototyping branch in code to test the desi
 
 In our weekly design team meeting we would discuss progress and assign out particular tasks.  We would also use that time to discuss real instances of the components in features we were working on to understand the considerations in a real context. The principal designer and I had weekly meetings and ad hoc collaboration with the front end developers throughout the process.
 
-
 ### Final Result
 
 The final result was a detailed and documented set of components in sketch and code, and significant updates to product itself.
 
 Image Here
 
-Design tool and workflow
+### Design tool and workflow
 
-The design system was captured in sketch leveraging a shared symbols library.   With the shared symbols library we could be more productive at creating high fidelity mockups.  It also acted as a standardizing force.  If you aren’t using a shared symbol, why not?
+The design system was captured in sketch leveraging a shared symbols library.   With the shared symbols library we could be more productive at creating high fidelity mockups.  It also acted as a standardizing force: if you aren’t using a shared symbol, why not?
 
 We uploaded a shared master sketch file to google drive and would create a new file from that whenever we started a new project.  There are of course some challenges with that workflow, but it was dead simple and just worked for us.
 
@@ -51,15 +50,13 @@ We uploaded a shared master sketch file to google drive and would create a new f
 
 ### Challenges
 
-The design system initiative was challenging to resource.  As a project it didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  Some attempts to time box effort with a “Design System Week” helped, but were ultimately insufficient.  Further efforts were made to integrate design system work into feature work.  Again, this helped but was insufficient.   By working with the VP of Engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
-
-Collaborating with development was also a challenge.  The front end team didn’t initially have a formal leader - they were all peers - which led to challenges with ownership and accountability.  These were contributing factors to the creation of the formal design system team.
+The design system initiative was challenging to resource.  As a project it didn’t easily fit into our release schedule since it was ongoing and we and the developers would frequently have to trade off design system effort against high priority feature work or customer escalations.  By working with engineering, I helped create a formal design system team with a dedicated dev leader and resource, which made a difference.
 
 ### Impact
 
 Before and After Image
 
-Despite the challenges, the design system had a large impact the product and the way we worked as Product and Engineering organization.
+Despite the challenges, the design system had a large impact the product and the way we worked as Product and Engineering groups.
 
 Upon leaving Trifacta, the CEO mentioned he thought the Design System was one of my biggest contributions to the company and was impressed I carved out the team’s time to focus on the initiative against competing priorities.
 
