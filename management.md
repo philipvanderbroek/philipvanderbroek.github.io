@@ -12,9 +12,9 @@ At Trifacta I managed and led the design team for 3 years, responsible for all o
 
 ### Hiring
 
-Hiring was one of the biggest challenges of managing the team, but also one of the most rewarding.  Big data is an domain that is traditionally void of good design, but the team I built was comprised of a diverse group of talented principal and senior designers that was able to make huge difference to our product. Hiring was one of my biggest accomplishments at Trifacta.
+Hiring was one of the biggest challenges of managing the team, but also one of the most rewarding.  Big data is an domain that is traditionally void of good design, but the team I built was comprised of a group of talented principal and senior designers that was able to make huge difference to our product. Hiring was one of my biggest accomplishments at Trifacta.
 
-To hire, I created and managed the process from start to finish, including sourcing, creating interview process, interview templates, prioritized criteria, job descriptions, and ultimately onboarding.
+I created and managed the hiring process from start to finish, including sourcing, creating the interview process, interview templates, prioritized criteria, job descriptions, and ultimately onboarding.
 
 <figure><img src="/images/management/team.png"></figure>
 

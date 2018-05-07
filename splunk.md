@@ -2,14 +2,15 @@
 layout: project-page
 title: Transformer
 permalink: splunk/
-hero: "/images/design_system/design_system_hero.png"
+hero: "/images/design_system/splunk_project_hero.png"
 ---
 
 # Splunk
 
+### Overview
 Splunk is the leading machine-generated data analysis platform.  It’s currently used by 15,000 companies and is worth $14B dollars.
 
-I was part of a small team responsible for the complete redesign of the core Enterprise Splunk product, which generated a majority of the company’s revenue.
+I was part of a small team responsible for the redesign of the core Splunk Enterprise 5.0 product, which generated a majority of the company’s revenue.
 
 The redesign included a completely new design system and front end, major updates to core concepts and pages, and the addition of new features.
 
