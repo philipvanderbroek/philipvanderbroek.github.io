@@ -107,8 +107,8 @@ ul{
   font-size: 14px;
   font-weight: 400;
 
-  .arrow{
-    transform: rotate(180deg);
+  svg.arrow{
+    //transform: rotate(180deg);
   }
 }
 
@@ -340,6 +340,13 @@ a{
 
     .next{
       margin: 100px auto;
+
+      svg.arrow{
+        transform: rotate(180deg);
+        height: 19px;
+        position: relative;
+        top: 3px;
+      }
     }
   }
 
