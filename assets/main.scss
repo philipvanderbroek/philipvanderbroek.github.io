@@ -143,8 +143,12 @@ strong, b {
     margin-bottom: 60px;
     position: relative;
     cursor: pointer;
-    //transition: all .9s cubic-bezier(0.3, 0, 0, 1);
     z-index: 1;
+    transition: border 0.9s cubic-bezier(0.3, 0, 0, 1);
+    
+    &:hover{
+      border: 1px solid #cac9c9;
+    }
 
     p{
       width: 350px;
@@ -332,12 +336,7 @@ a{
       margin-bottom: 60px;
       position: relative;
       cursor: pointer;
-      transition: border 0.9s cubic-bezier(0.3, 0, 0, 1);
       z-index: 1;
-
-      &:hover{
-        border: 1px solid #cac9c9;
-      }
 
       p{
         width:inherit;
