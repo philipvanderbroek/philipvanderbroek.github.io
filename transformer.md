@@ -56,6 +56,6 @@ Something
 
 <p class="next">
   <a href="/design_system">Next Case Study - Design System
-  <?xml version="1.0" ?><svg enable-background="new 0 0 45 34" height="14px" class="arrow" version="1.1" viewBox="0 0 45 34" width="45px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon fill="#444444" points="24.994,31.705 36.908,20 0,20 0,15 36.908,15 24.994,3.006 27.822,0.273 45,17.499 27.822,34.605   "/></svg>
+  <?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
   </a>
 </p>
