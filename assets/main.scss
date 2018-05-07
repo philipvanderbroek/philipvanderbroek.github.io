@@ -73,6 +73,10 @@ ul{
   list-style-type: circle;
 }
 
+strong, b {
+    font-weight: 500;
+}
+
 .global-back{
   //height: 50px;
   position: fixed;
@@ -204,6 +208,10 @@ ul{
     width: 95%;
     margin: 25px auto;
     text-align: center;
+
+    img{
+      width: 100%;
+    }
   }
 
   video{
