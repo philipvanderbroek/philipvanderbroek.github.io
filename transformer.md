@@ -4,7 +4,7 @@ title: Transformer
 permalink: transformer/
 hero: "/images/transformer/transformer_project_hero.png"
 ---
-# Transformer
+# Transform Builder
 
 ### Overview
 A common problem in data analysis is that the data is messy.  Cleaning messy data is difficult and often requires technical skills.  Trifacta enables analysts to clean and prepare their data by providing them with a visual cleaning experience powered by machine learning.
