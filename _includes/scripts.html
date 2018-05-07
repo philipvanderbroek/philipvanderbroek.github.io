@@ -26,7 +26,7 @@
       $(window).scroll(function() {
           var scroll = $(window).scrollTop();
 
-          if (scroll == 0) {
+          if (scroll > 10) {
               $(".global-back").removeClass("scrolled");
           } else {
               $(".global-back").addClass("scrolled");

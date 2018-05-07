@@ -109,6 +109,10 @@ strong, b {
   font-size: 14px;
   font-weight: 400;
 
+  &:hover{
+    background: none;
+  }
+
   svg.arrow{
     position: relative;
     top: 2px;
