@@ -50,7 +50,7 @@ A few of the areas of impact I had on Trifacta’s process:
 
 ### Research
 
-There were times when design struggled to have time to do in detailed synthesis of the customer visits we were going on.  I brought this issue up and proposed hiring a researcher.  The VP of Product and CEO were hesitant about the value a researcher would bring to the company.  We agreed to bring in a consulting researcher for the company to test and understand the value of research.  I sourced a well-regarded researcher who worked with the Product and Design team on a foundational research project to better understand our users skills and needs.
+There were times when design struggled to have the time needed to do detailed synthesis of our research.  We weren't translating our experince into a high leverage tool we and the rest of company could use.  I brought this issue up with the VP of Product and proposed hiring a researcher.  The VP of Product and CEO were hesitant about the value a researcher would bring to the company, but agreed to bring in a consulting researcher for the company to test and understand the value of research.  I sourced a well-regarded researcher who worked with the Product and Design team on a foundational research project to better understand our users skills and needs.
 
 Ultimately the project shed light on important details, such as the range of technical ability across our users, which impacted how we thought about creating core parts of the product and how marketing thought about messaging our product.  The project was considered a success, which led to my hiring of our first full time user researcher.
 
