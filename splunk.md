@@ -7,9 +7,9 @@ hero: "/images/splunk/splunk_project_hero.png"
 
 # Splunk
 
-Splunk is the leading machine-generated data analysis platform.  It’s currently used by 15,000 companies and is worth $14B dollars.
+Splunk is the leading machine-generated data analysis platform.  It’s currently used by 15,000 companies and is worth $18B dollars.
 
-I was part of a small team responsible for redesigning the Splunk Enterprise 5.0, Splunk's core product.
+I was part of a small team responsible for redesigning Splunk Enterprise 5.0, Splunk's core product.
 
 The redesign included a completely new design system and front end, major updates to core concepts and pages, and the addition of new features.
 
