@@ -1,1 +1,59 @@
+ <div class="projects">
+     <section id="dropbox-project" class="project">
+      <img class="logo" src="">
+      <h1>Dropbox
+      </h1>
+      <p>Managing design teams at one of the largest SaaS companies.</p>
+      <img class="projimg" src="images/DropboxGlyph_Blue.jpg">
+      <p>Coming Soon.</p>
+    </section>
+    
+    <section id="shv-project" class="project">
+      <img class="logo" src="">
+      <h1>Sutter Hill Ventures
+      </h1>
+      <p>Designer in Residence in Venture Capital.</p>
+      <img class="projimg" src="images/sutter.png">
+      <p>Coming Soon.</p>
+    </section>
+    
+    <section id="transformer-project" class="project">
+      <img class="logo" src="images/trifacta.png">
+      <h1>Transform Builder
+      </h1>
+      <p>Designing the core experience of a data wrangling product.</p>
+      <img class="projimg" src="images/transformer_project_hero.png">
+      <a>View Case Study<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
+      </a>
 
+    </section>
+    <section id="system-project" class="project ">
+      <img class="logo" src="images/trifacta.png">
+      <h1>Design System
+      </h1>
+      <p>Designing and implementing a design system for a complex product.</p>
+      <img class="projimg" src="images/design_system_project_hero.png">
+      <a>View Case Study<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
+      </a>
+
+    </section>
+    <section id="management-project" class="project">
+      <img class="logo" src="images/trifacta.png">
+      <h1>Design Management
+      </h1>
+      <p>Design management experience and perspectives.</p>
+      <img class="projimg" src="images/management_project_hero.png">
+      <a>View Case Study<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
+      </a>
+
+    </section>
+    <section id="splunk_project" class="project">
+      <img class="logo" src="images/splunk_logo.png">
+      <h1>Splunk Enterprise 5.0
+      </h1>
+      <p>A redesign of the market leading machine-generated data analysis tool.</p>
+      <img class="projimg" src="images/splunk_project_hero.png">
+      <a>View Case Study<?xml version="1.0" ?><svg enable-background="new 0 0 32 32" height="15px" class="arrow" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path clip-rule="evenodd" d="M31.106,15H3.278l8.325-8.293  c0.391-0.391,0.391-1.024,0-1.414c-0.391-0.391-1.024-0.391-1.414,0l-9.9,9.899c-0.385,0.385-0.385,1.029,0,1.414l9.9,9.9  c0.391,0.391,1.024,0.391,1.414,0c0.391-0.391,0.391-1.024,0-1.414L3.278,17h27.828c0.552,0,1-0.448,1-1  C32.106,15.448,31.658,15,31.106,15z" fill="#444444" fill-rule="evenodd" id="Arrow_Back"/><g/><g/><g/><g/><g/><g/></svg>
+      </a>
+    </section>
+  </div>
