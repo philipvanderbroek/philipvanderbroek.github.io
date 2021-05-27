@@ -1,3 +1,7 @@
+ 
+
+{% include footer.html %}
+ 
  <div class="projects">
      <section id="dropbox-project" class="project">
       <img class="logo" src="">
